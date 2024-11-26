@@ -1,0 +1,12 @@
+.player-container svg
+{
+width: 30px;
+height: 30px;
+}
+  
+.controls-ProgressBar{
+    width: 100%;
+}
+.controls-ProgressBar input{
+    width: 100%;
+}
